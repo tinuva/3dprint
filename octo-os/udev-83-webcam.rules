@@ -1,0 +1,2 @@
+#KERNEL=="video[0-9]*", SUBSYSTEM=="video4linux", SUBSYSTEMS=="usb", ATTRS{idVendor}=="046d", ATTRS{idProduct}=="0826", SYMLINK+="video-cam1"
+KERNEL=="video[0-9]*", SUBSYSTEM=="video4linux", SUBSYSTEMS=="usb", ATTRS{idVendor}=="2bdf", ATTRS{idProduct}=="0280", SYMLINK+="video-cam0"
