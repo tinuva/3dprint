@@ -1,0 +1,24 @@
+x: 310
+y: 310
+z: 340
+
+build plate shape: rectangular
+heated bed: yes
+orgigin at center: not selected
+heated build volume: not selected
+gcode flavor: marlin
+
+x min: -33
+y min: -23
+x max: 33 
+y max: 35
+gantry height: 27.5
+nr extruders: 1
+apply extruder offset to gcode: yes
+
+extruder1
+
+compatible material diameter: 1.75
+nozzle offset x: 0.0
+nozzle offset y: 0.0
+cooling fan number: 0
